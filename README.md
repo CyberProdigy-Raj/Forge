@@ -8,7 +8,7 @@ Built with **vanilla HTML, CSS, and JavaScript** — no frameworks, no build ste
 
 🔗 **Try the application here:**
 
-****
+**https://forge-rajdevelopment.vercel.app/**
 
 > Experience the app directly in your browser—no installation required.
 
